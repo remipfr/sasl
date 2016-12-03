@@ -20,11 +20,7 @@ createProp("volumeSon", "float", 1);
 
 components = {
 timelogic{}, 
-afterburner1{}, 
-afterburner2{}, 
-enginesound1{}, 
-enginesound2{}, 
+lowbypassenginesound{}, 
 weaponsound{}, 
---gunsoundbeta{}, 
 sound{}, 
 }
